@@ -14,7 +14,6 @@ translator = Translator()
 
 #Mikrofon-Kurulumu--->
 r = sr.Recognizer()
-ArduinoUnoSerial = serial.Serial('COM4',9600)
 spaid = 0
 this_app = ""
 ai_mode = "voice"
