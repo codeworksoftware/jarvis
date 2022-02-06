@@ -20,3 +20,4 @@ Jarvis is a voice assistant.
 
 # Social Media
 - [Instagram](https://instagram.com/firattunaarslann)
+- [Twitter](https://twitter.com/firatunarslann)
