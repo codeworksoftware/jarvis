@@ -14,3 +14,6 @@ Jarvis is a voice assistant.
 
 # HOW CAN I USE .exe?
 - Run "setup.bat" to access the application directly.
+
+# REQUIRED PYTHON VERSION
+- 3.9.5
