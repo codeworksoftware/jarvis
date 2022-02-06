@@ -1,0 +1,4 @@
+pyinstaller --hidden-import=pyttsx3.drivers --hidden-import=pyttsx3.drivers.sapi5 --icon=favicon.ico assistant_name.py
+copy *.lower_assistant_name \dist\assistant_name\
+copy *.py \dist\assistant_name\
+copy *.ico \dist\assistant_name\
