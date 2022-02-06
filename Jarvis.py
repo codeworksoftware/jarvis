@@ -1,5 +1,4 @@
 #Paketler--->
-import serial
 import datetime
 from datetime import datetime
 import time
