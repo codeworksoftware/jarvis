@@ -17,3 +17,6 @@ Jarvis is a voice assistant.
 
 # REQUIRED PYTHON VERSION
 - 3.9.7
+
+# Social Media
+- [Instagram](https://instagram.com/firattunaarslann)
